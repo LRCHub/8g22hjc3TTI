@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "recall",
+  "base_artist": "八木海莉",
+  "createdAt": "2025-12-29T04:14:17.535927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ten Rounds with Jose Cuervo - Recall Mix",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/01_Ten_Rounds_with_Jose_Cuervo_-_Recall_Mix_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Recall",
+      "artist": "Technotronic",
+      "has_synced": false,
+      "path": "select/02_Recall_Technotronic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ancestral Recall",
+      "artist": "Emma Ruth Rundle feat. Thou",
+      "has_synced": true,
+      "path": "select/03_Ancestral_Recall_Emma_Ruth_Rundle_feat._Thou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ancestral Recall",
+      "artist": "Emma Ruth Rundle",
+      "has_synced": true,
+      "path": "select/04_Ancestral_Recall_Emma_Ruth_Rundle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Recall",
+      "artist": "Robert Parker feat. Preston Knight",
+      "has_synced": true,
+      "path": "select/05_I_Recall_Robert_Parker_feat._Preston_Knight.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Recall (feat. Preston Knight)",
+      "artist": "Robert Parker",
+      "has_synced": true,
+      "path": "select/06_I_Recall_(feat._Preston_Knight)_Robert_Parker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do You Recall",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/07_Do_You_Recall_Journey.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Total Recall",
+      "artist": "Flosstradamus",
+      "has_synced": true,
+      "path": "select/08_Total_Recall_Flosstradamus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Roll Call - Recall (Live)",
+      "artist": "Peter Murphy",
+      "has_synced": false,
+      "path": "select/09_Roll_Call_-_Recall_(Live)_Peter_Murphy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Might Recall - 2000 Digital Remaster",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/10_You_Might_Recall_-_2000_Digital_Remaster_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "04 You Might Recall",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/11_04_You_Might_Recall_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Recall",
+      "artist": "Texas Pandaa",
+      "has_synced": true,
+      "path": "select/12_No_Recall_Texas_Pandaa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who Is She 2 U - Recall Version",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/13_Who_Is_She_2_U_-_Recall_Version_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do You Recall - Live at Cobo Hall in Detroit, Michigan, August 1980",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/14_Do_You_Recall_-_Live_at_Cobo_Hall_in_Detroit,_Michigan,_August_1980_Journey.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ancestral Recall",
+      "artist": "Emma Ruth Rundle Thou",
+      "has_synced": true,
+      "path": "select/15_Ancestral_Recall_Emma_Ruth_Rundle_Thou.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ten Rounds with Jose Cuervo (Recall Mix)",
+      "artist": "Tracy Byrd",
+      "has_synced": false,
+      "path": "select/16_Ten_Rounds_with_Jose_Cuervo_(Recall_Mix)_Tracy_Byrd.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "recall",
+      "artist": "八木海莉",
+      "has_synced": false,
+      "path": "select/pl_01_recall_八木海莉.txt"
+    }
+  ]
+}
